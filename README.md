@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá! 👋
 
 <!--
 **H-Barros/H-Barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Atualmente estou estudando HTML, CSS, Javascript e NodeJs.
+- 👯 Estou procurando algum projeto que possa ajudar mesmo ainda aprendendo!
+- 🤔 Estou procurando por qualquer tipo de ajuda ou informação dessas linguagens.
+- 📫 Pode me chamar no henriqueeustaquiob@gmail.com
