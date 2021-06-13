@@ -1,4 +1,5 @@
-Olá! 👋
+<h1 align="center">Olá! 👋 Sou o Henrique<h1>
+<h2 align="center">Estou estudando para entrar profissionalmente na área da programação<h2>  
 
 <!--
 **H-Barros/H-Barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +19,8 @@ Here are some ideas to get you started:
 - 👯 Estou procurando algum projeto que possa ajudar mesmo ainda aprendendo!
 - 🤔 Estou procurando por qualquer tipo de ajuda ou informação dessas linguagens.
 - 📫 Pode me chamar no henriqueeustaquiob@gmail.com
+  
+<p align="center">
+<a href="https://www.linkedin.com/in/henrique-barros-71b006214/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.instagram.com/henriquebaarros/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+</p>
