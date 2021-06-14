@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Atualmente estou estudando HTML, CSS, Javascript e NodeJs.
-- 👯 Estou procurando algum projeto que possa ajudar mesmo ainda aprendendo!
-- 🤔 Estou procurando por qualquer tipo de ajuda ou informação dessas linguagens.
-- 📫 Pode me chamar no henriqueeustaquiob@gmail.com
+<font size = 5>- 🌱 Atualmente estou estudando HTML, CSS, Javascript e NodeJs.<br>
+- 👯 Estou procurando algum projeto que possa ajudar mesmo ainda aprendendo!<br>
+- 🤔 Estou procurando por qualquer tipo de ajuda ou informação dessas linguagens.<br>
+  - 📫 Pode me chamar no henriqueeustaquiob@gmail.com</font>
   
 <p align="center">
 <a href="https://www.linkedin.com/in/henrique-barros-71b006214/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Barros" height="20" width="20" /></a>
