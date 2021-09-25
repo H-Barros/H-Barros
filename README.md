@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Atualmente estou estudando HTML, CSS, Javascript e NodeJs.<br>
+- 🌱 Atualmente estou estudando desenvolvimento web focado no Ruby on Rails<br>
 - 👯 Estou procurando algum projeto que possa ajudar mesmo ainda aprendendo!<br>
 - 🤔 Estou procurando por qualquer tipo de ajuda ou informação dessas linguagens.<br>
 - 📫 Pode me chamar no henriqueeustaquiob@gmail.com
