@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 Atualmente estou estudando desenvolvimento web focado no Backend<br>
 - 👯 Estou procurando algum projeto que possa ajudar mesmo ainda aprendendo!<br>
-- 🤔 Estou procurando por qualquer tipo de ajuda ou informação dessas linguagens.<br>
+- 🤔 Estou procurando por qualquer tipo de ajuda, informação ou material sobre desenvolvimento web<br>
 - 📫 Pode me chamar no henriqueeustaquiob@gmail.com
   
 <p align="center">
